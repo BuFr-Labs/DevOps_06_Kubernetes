@@ -1,0 +1,7 @@
+# Ignorovat stazene binarky a instalatory
+minikube-linux-amd64
+kubectl
+
+# Ignorovat systemove skryte složky (volitelne)
+.minikube/
+.kube/
